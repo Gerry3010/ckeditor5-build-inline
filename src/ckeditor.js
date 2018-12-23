@@ -98,6 +98,7 @@ InlineEditor.defaultConfig = {
             'numberedList',
             'blockQuote',
             'insertTable',
+            'ckfinder',
             'imageUpload',
             'mediaEmbed',
             '|',
@@ -107,6 +108,9 @@ InlineEditor.defaultConfig = {
     },
     alignment: {
         options: [ 'left', 'center', 'right', 'justify']
+    },
+    ckfinder: {
+        openerMethod: 'modal'
     },
     fontFamily: {
         options: [
