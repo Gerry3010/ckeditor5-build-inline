@@ -98,7 +98,6 @@ InlineEditor.defaultConfig = {
             'numberedList',
             'blockQuote',
             'insertTable',
-            'ckfinder',
             'imageUpload',
             'mediaEmbed',
             '|',
