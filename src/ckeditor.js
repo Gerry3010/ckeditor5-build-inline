@@ -74,6 +74,8 @@ InlineEditor.builtinPlugins = [
     TableToolbar
 ];
 
+// TODO: Create a plugin that supports image and file uploading and embedding
+
 // Editor configuration.
 InlineEditor.defaultConfig = {
     toolbar: {
